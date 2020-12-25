@@ -14,4 +14,3 @@ I am a Ph.D student at University of Pennsylvania.
 I am a member of PRECISE at Penn.
 
 My research interests include runtime verification, formal verification and model-based development.
-
