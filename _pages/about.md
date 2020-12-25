@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Teng Zhang's websites"
+#title: "Teng Zhang's websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
